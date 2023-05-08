@@ -38,9 +38,8 @@ body{
   text-align: center;
 }
 .icon{
-  max-width: 30px;
-  height: auto;
-  margin: 1px 8px;
+  width: 30px;
+  margin-right: 10px;
 }
 .icons{
   display: flex;
